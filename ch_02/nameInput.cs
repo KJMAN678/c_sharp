@@ -7,7 +7,7 @@ class First
     {
         System.Console.WriteLine(program_ver);
         System.Console.Write("お名前は？>");
-        string? name = System.Console.ReadLine();
+        string name = System.Console.ReadLine();
         System.Console.WriteLine($"ようこそ、{name}さん !");
     }
 }
