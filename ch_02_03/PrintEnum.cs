@@ -1,4 +1,3 @@
-using Internal;
 using System;
 
 class Sample
@@ -11,7 +10,7 @@ class Sample
 
     static void Main()
     {
-        System.Console.WriteLine(Day.Sun);
-        System.Console.WriteLine((int)Day.Sat);
+        Console.WriteLine(Day.Sun);
+        Console.WriteLine((int)Day.Sat);
     }
 }

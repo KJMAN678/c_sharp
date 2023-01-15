@@ -1,6 +1,3 @@
-using System.Globalization;
-using System.Reflection.Metadata;
-using Internal;
 using System;
 
 class Sample

@@ -1,4 +1,3 @@
-using Internal;
 using System;
 
 class Sample
@@ -8,7 +7,7 @@ class Sample
         string name = "c:\\user\\test\\sample.cs";
         string s = @"c:\user\test\sample.cs";
         string newLine = @"改行
-しますた";
+しました";
         string doubleQuotation = @"ダブルクォーテーションは""""と記述します";
 
         Console.WriteLine(name);

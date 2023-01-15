@@ -1,4 +1,3 @@
-using Internal;
 using System;
 
 public struct Book
@@ -17,8 +16,8 @@ class MainClass
         book.title = "AAA";
         book.author = "A氏";
 
-        System.Console.WriteLine(book.price);
-        System.Console.WriteLine(book.title);
-        System.Console.WriteLine(book.author);
+        Console.WriteLine(book.price);
+        Console.WriteLine(book.title);
+        Console.WriteLine(book.author);
     }
 }

@@ -7,13 +7,13 @@
 - [基礎からしっかり学ぶ C#の教科書　第 3 版　 C# 10 対応](https://www.amazon.co.jp/dp/B09TQDHQHW)
 
 ```cs
-using Internal;
 using System;
 
 class MainClass
 {
     static void Main()
     {
+        Console.WriteLine();
     }
 }
 ```

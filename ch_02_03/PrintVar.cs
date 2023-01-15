@@ -1,4 +1,3 @@
-using Internal;
 using System;
 
 class MainClass
@@ -9,8 +8,8 @@ class MainClass
         var S = "Hello";
         var a = new[] {0, 1, 2};
 
-        System.Console.WriteLine(i);
-        System.Console.WriteLine(S);
-        System.Console.WriteLine(a[1]);
+        Console.WriteLine(i);
+        Console.WriteLine(S);
+        Console.WriteLine(a[1]);
     }
 }
